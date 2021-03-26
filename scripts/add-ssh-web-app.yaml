@@ -17,7 +17,7 @@ users:
     groups: users, admin
     lock_passwd: false
     ssh_authorized_keys:
-      - ssh-rsa AAAAHHHHHH
+      - ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAoQfx7tXYDhnX8L3KZznKRiNeaD6cPF+baEq1Dcjq8dqqmGmfw+Bn9ZlNNuGrs4N0LwyaKwQ23Ii49KxOt6BAD/Q5REbbr8WsEZjAKvsAzkEiAK+4CtQvEivnjlh5v2we0QEgcc5q6SGL/YuLYEo7M+mJET3rr3Ek8TYUXdR0ckkSkWxcWx/+Xac9HBgbIevED74cs4+CmXihds2p6a5YL5Mmto4monLXUx85/kqxyaIKM8LfkqClvapJtUld0nSeP7Humy1fEcw6qoOfvCqlVihiKDRxmyJJ6jtS02UeTW3F19GvcUI/cNQRC1f98twM/EcMqC566gq3pcXnZXy9kw== rsa-key-20210326
 
 # Downloads the golang package
 packages:
